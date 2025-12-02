@@ -1,4 +1,4 @@
-![git-colored](https://github.com/user-attachments/assets/21034867-8677-46bc-af8b-4e3fff76c1fd)![csharp-colored](https://github.com/user-attachments/assets/45f8c6ae-1ab9-4bfd-bc04-20940d837195)## Hi, I´m Oswaldo 👋
+## Hi, I´m Oswaldo 👋
 
 I am a .NET Developer with ove 3 years or experience building Backend solutions using Microsoft technologies, I am Currently expanding my knowledge in front-end applications and improving my Back-end skills. I like to learn new technologies
 
