@@ -19,7 +19,8 @@ I am a .NET Developer with ove 3 years or experience building Backend solutions 
 ## Other Technologies
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-	
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)	
 <!--
 **osvij0exe/osvij0exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
